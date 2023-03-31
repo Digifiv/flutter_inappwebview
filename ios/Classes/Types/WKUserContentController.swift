@@ -7,7 +7,6 @@
 
 import Foundation
 import WebKit
-import OrderedSet
 
 extension WKUserContentController {
     static var WINDOW_ID_PREFIX = "WINDOW-ID-"
